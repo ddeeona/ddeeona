@@ -1,3 +1,5 @@
+NFT collection - Crypto Devs
+
 Smart Contract
 
 We are using Ownable.sol from Openzeppelin which helps us manage the Ownership of a contract. Ownable also let transferOwnership from the owner account to a new one, andrenounceOwnership for the owner to relinquish this administrative privilege, a common pattern after an initial stage with centralized administration is over.
