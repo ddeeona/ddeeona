@@ -162,5 +162,6 @@ Now lets install Web3Modal library(https://github.com/Web3Modal/web3modal). Web3
 
 Our Crypto Devs NFT dapp is working!
 
-![image](https://github.com/ddeeona/ddeeona/assets/147994845/c5478211-7b37-40fe-bdd2-1835076a83c9)
+![image](https://github.com/ddeeona/ddeeona/assets/147994845/102f42fb-856b-4a08-99b9-d210df8f0f4d)
+
 
